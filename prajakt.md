@@ -4,7 +4,6 @@ I am a learner enrolled in the Upgrade Centre, focused on systematically improvi
 
 ## Background
 - Comfortable with core concepts and everyday workflows.
-- Ready to adopt newer practices, tools, and automation to cut manual effort.
 
 ## Goals
 - Learn and apply one significant tool or practice each month.
